@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBGroupHelper", "FBGroupHelper\FBGroupHelper.csproj", "{244563EF-8219-468F-8054-E838A1CF6B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadHelper", "MainApp\UploadHelper.csproj", "{C52428BD-0CF0-46B8-854F-6CE324773BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244563EF-8219-468F-8054-E838A1CF6B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244563EF-8219-468F-8054-E838A1CF6B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244563EF-8219-468F-8054-E838A1CF6B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244563EF-8219-468F-8054-E838A1CF6B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52428BD-0CF0-46B8-854F-6CE324773BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52428BD-0CF0-46B8-854F-6CE324773BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52428BD-0CF0-46B8-854F-6CE324773BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52428BD-0CF0-46B8-854F-6CE324773BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D84D5C3-26CC-47A9-BB74-8C5DBE4BD773}
+	EndGlobalSection
+EndGlobal
